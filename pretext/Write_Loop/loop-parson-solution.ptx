@@ -3,4 +3,5 @@
 <section xml:id="loop-parson-solution" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US"> 
         <title>WriteLoops-Solution</title>
         <image source="loop_solution/solved_loop_problem.png" ></image>
+        <xi:include href='./subgoals_write_loop.ptx' />
 </section>
