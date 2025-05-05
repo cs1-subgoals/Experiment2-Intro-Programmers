@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="loop-wrl-p1" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">        
+    <title>WriteLoops-Exercise</title>
+    <xi:include href='./subgoals_write_loop.ptx' />
+    <transition/>
+            <exercises>
+                <exercise xml:id="parsons-Loop-Q1" indent="show" language="python">
+                    
+                        
+            <statement>
+                <p>Fill in the blanks in the following code to create a program that will print the prime numbers between 1 and 100 (inclusive).</p>
+            </statement>
+            <blocks>
+                <block order="1">
+                    <cline>for i in range( 2, 101): </cline>
+                </block><block order="2">
+                    <cline>   is_prime = False</cline>
+                </block><block order="3">
+                    <cline>   for j in range( 2, i):</cline>
+                </block><block order="4">
+                    <cline>      if i % j == 0:</cline>
+                    
+                </block><block order="5">
+                    <cline>         is_prime = True</cline>
+                </block><block order="6">
+                    <cline>   if is_prime:</cline>
+                </block><block order="7">
+                    <cline>      print(i, end=" ")</cline>
+                </block>
+            </blocks>
+        </exercise>
+                
+        </exercises>
+
+
+    
+</section>

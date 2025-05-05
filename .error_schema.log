@@ -1,0 +1,5 @@
+file:/D:/School/SummerWork/books/IntroProgrammers/Experiment2-Intro-Programmers/pretext/toctree.ptx:5:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element title, got docinfo
+file:/D:/School/SummerWork/books/IntroProgrammers/Experiment2-Intro-Programmers/pretext/toctree.ptx:5:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element book failed to validate content
+file:/D:/School/SummerWork/books/IntroProgrammers/Experiment2-Intro-Programmers/pretext/toctree.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element docinfo, got pretext
+file:/D:/School/SummerWork/books/IntroProgrammers/Experiment2-Intro-Programmers/pretext/toctree.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element pretext there
+file:/D:/School/SummerWork/books/IntroProgrammers/Experiment2-Intro-Programmers/pretext/toctree.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element webwork, got pretext
