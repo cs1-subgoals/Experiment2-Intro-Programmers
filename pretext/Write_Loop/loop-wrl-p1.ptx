@@ -2,7 +2,7 @@
 
 <section xml:id="loop-wrl-p1" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">        
     <title>WriteLoops-Exercise</title>
-    <xi:include href='./subgoals_write_loop.ptx' />
+    
     <transition/>
             <exercises>
                 <exercise xml:id="parsons-Loop-Q1" indent="show" language="python">
